@@ -1,5 +1,6 @@
-# Generating-Adversarial-Examples-with-PyTorch
-[imagenet_adv_examples.ipynb](imagenet_adv_examples.ipynb) contains:
+# Generating Adversarial Examples using PyTorch
+
+[imagenet_adv_examples.ipynb](imagenet_adv_examples.ipynb) implements:
 - Fast Gradient Sign Method
 - Basic Iterative Method
 - Targeted FGSM
